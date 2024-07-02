@@ -1,6 +1,7 @@
 function TVING() {
  return (
-  <>
+   <div className='project-section'>
+
      <p>TVING 클론 코딩  (1人 프로젝트)</p>
 <p>농기계 임대 사업소 검색 사이트  (1人 프로젝트)</p>
 <h3>로스트아크 MBTI 성향 테스트 (1人 프로젝트)</h3>
@@ -22,7 +23,7 @@ AWS로 배포하며 웹 사이트의 배포 과정에 대해 알게 되었고,
 <p>깃허브.</p>https://github.com/VaIice/Capstone
 <p>URL.</p>http://d10v0gqnjifjsl.cloudfront.net
 <p>Tech Stack.</p>JavaScript, React, AWS S3, AWS Cloudfront
-</>
+</div>
    )
 }
 
