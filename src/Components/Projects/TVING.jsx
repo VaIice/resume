@@ -1,29 +1,19 @@
 function TVING() {
  return (
-   <div className='project-section'>
+  <div className='project-section'>
+    <h3>TVING (1人 프로젝트)<span className="highlight">.</span></h3>
+     TypeScript와 데이터 관리에 익숙해지기 위해 <span className="highlight">TVING</span>을 클론 코딩한 웹 사이트를 제작했습니다.<br/><br/>
 
-     <p>TVING 클론 코딩  (1人 프로젝트)</p>
-<p>농기계 임대 사업소 검색 사이트  (1人 프로젝트)</p>
-<h3>로스트아크 MBTI 성향 테스트 (1人 프로젝트)</h3>
-로스트아크를 테마로 한 MBTI 성향 테스트 사이트로, 개인의 MBTI 결과에 따라 게임 내 성향을 알려주는 사이트입니다.
-평소에 흥미를 가지고 있던 MBTI와 로스트아크를 결합해 개발하였습니다.
+     <span className="highlight">React Query</span>를 실시간 데이터 관리에 활용하고, <span className="highlight">TypeScript</span>를 사용하여 코드의 타입 안정성을 확보했습니다.
+     캐러셀 기능은 외부 라이브러리의 공식 문서를 참고하여 구현했습니다.<br /><br />
 
-React와 Redux를 적극적으로 공부하고 활용해볼 수 있었을 뿐 아니라, React-Query와 React-Hook-Form 등의 편의를 돕는 여러 라이브러리도 활용해볼 수 있었습니다.
-CSS에 조금 더 익숙해지는 계기가 되었고, 카카오 API를 통한 공유하기 기능을 추가하였습니다.
-조회수 4만+을 기록하고, 게임 사이트 메인에 올라가는 등 많은 관심을 받았습니다. 정확한 조회수 측정을 위해 Google Analytics를 이용 중입니다.
-<p>주요 기능.</p>MBTI 성향 테스트, 공유하기
-<p>깃허브.</p>https://github.com/VaIice/mbti
-<p>URL.</p>https://vaiice.github.io/mbti
-<p>Tech Stack.</p>React, Redux
-<p>게임 웹 사이트 (4人 프로젝트)</p>
-게임을 위한 커뮤니티 웹 사이트입니다. 처음으로 프론트엔드에 발을 디디게 된 프로젝트였습니다.
-
-AWS로 배포하며 웹 사이트의 배포 과정에 대해 알게 되었고, 
-<p>주요 기능.</p>회원가입, 로그인, 게시글 쓰기, 비밀번호 찾기
-<p>깃허브.</p>https://github.com/VaIice/Capstone
-<p>URL.</p>http://d10v0gqnjifjsl.cloudfront.net
-<p>Tech Stack.</p>JavaScript, React, AWS S3, AWS Cloudfront
-</div>
+     이 과정을 통해 TypeScript를 사용하여 타입 안정성을 확보하고, 안정적인 코드 구성 및 모듈 관리 능력을 연습할 수 있었습니다.
+     또한, 공식 문서를 참고하는 노하우를 익히게 되어 새로운 외부 라이브러리를 사용하는 데 대한 두려움을 줄이는 계기가 되었습니다.
+    <h5>주요 기능<span className="highlight">.</span></h5><span>최신 영화 및 TV 프로그램 리스트 표시, 검색 및 상세 정보 확인</span>
+    <h5>Github<span className="highlight">.</span></h5><span><a href="https://github.com/VaIice/tving">https://github.com/VaIice/tving</a></span>
+    <h5>URL<span className="highlight">.</span></h5><span><a href="https://vaiice.github.io/tving">https://vaiice.github.io/tving</a></span>
+    <h5>Tech Stack<span className="highlight">.</span></h5><span>React, Redux (Redux-toolkit), TypeScript, TMDB API, Figma</span>
+  </div>
    )
 }
 

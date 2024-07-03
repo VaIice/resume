@@ -7,7 +7,7 @@ function Projects() {
  return (
     <section>
          <h2>Project<span className="highlight">.</span></h2>
-         {/* <TVING/> */}
+         <TVING/>
          <Lease/>
          <MBTI />
          <Capstone/>
