@@ -98,3 +98,13 @@ body {
 .project-section:last-of-type {
   border-bottom: none;
 }
+
+@media (max-width: 960px) {
+  h1 {
+    font-size: 3rem !important;
+  }
+
+  p {
+    font-size: 1.05rem !important;
+  }
+}
