@@ -9,6 +9,7 @@ function TVING() {
 
      이 과정을 통해 TypeScript를 사용하여 타입 안정성을 확보하고, 안정적인 코드 구성 및 모듈 관리 능력을 연습할 수 있었습니다.
      또한, 공식 문서를 참고하는 노하우를 익히게 되어 새로운 외부 라이브러리를 사용하는 데 대한 두려움을 줄이는 계기가 되었습니다.
+     <h5>작업 기간<span className="highlight">.</span></h5><span>2024.06 ~ 2024.07</span>
     <h5>주요 기능<span className="highlight">.</span></h5><span>최신 영화 및 TV 프로그램 리스트 표시, 검색 및 상세 정보 확인</span>
     <h5>Github<span className="highlight">.</span></h5><span><a href="https://github.com/VaIice/tving">https://github.com/VaIice/tving</a></span>
     <h5>URL<span className="highlight">.</span></h5><span><a href="https://vaiice.github.io/tving">https://vaiice.github.io/tving</a></span>
