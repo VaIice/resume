@@ -1,8 +1,10 @@
 function TVING() {
  return (
   <div className='project-section'>
-    <h3>TVING (1人 프로젝트)<span className="highlight">.</span></h3>
-     TypeScript와 데이터 관리에 익숙해지기 위해 <span className="highlight">TVING</span>을 클론 코딩한 웹 사이트를 제작했습니다.<br/><br/>
+     <h3>TVING (1人 프로젝트)<span className="highlight">.</span></h3>
+     * 특정 과제나 강의를 보고 따라한 클론 코딩이 아닙니다.<br /><br />
+     
+     TypeScript와 데이터 관리에 익숙해지기 위해 직접 <span className="highlight">TVING</span>을 클론 코딩한 웹 사이트를 제작했습니다.<br/><br/>
 
      <span className="highlight">React Query</span>를 실시간 데이터 관리에 활용하고, <span className="highlight">TypeScript</span>를 사용하여 코드의 타입 안정성을 확보했습니다.
      캐러셀 기능은 외부 라이브러리의 공식 문서를 참고하여 구현했습니다.<br/><br/>

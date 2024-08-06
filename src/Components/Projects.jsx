@@ -1,6 +1,7 @@
 import Capstone from "./Projects/Capstone";
 import Lease from "./Projects/Lease";
 import MBTI from "./Projects/MBTI";
+import Database from "./Projects/Database";
 import TVING from "./Projects/TVING";
 
 function Projects() {
@@ -10,7 +11,8 @@ function Projects() {
          <TVING/>
          <Lease/>
          <MBTI />
-         <Capstone/>
+         <Capstone />
+         <Database/>
 </section>
  )
 }
